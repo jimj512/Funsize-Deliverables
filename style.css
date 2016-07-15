@@ -129,6 +129,7 @@ html {
 
 body {
   font: 100%/1.5 sans-serif;
+  font-family: "interface";
 }
 
 section {
@@ -146,6 +147,8 @@ section {
   font-size: 2em;
   margin-bottom: 0.5em;
 }
+
+h1 {font-weight: 100;}
 
 a {
   color: #0066cc;
