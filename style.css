@@ -122,13 +122,13 @@ html {
   -o-background-size: cover;
   background-size: cover;
   text-rendering: optimizeLegibility !important;
-
 -webkit-font-smoothing: antialiased !important;
 
 }
 
 body {
   font: 100%/1.5 sans-serif;
+  font-family: "interface";
 }
 
 section {
@@ -141,6 +141,8 @@ section {
   font-size: 3em;
   margin: 0;
 }
+
+h1 {font-weight: 100;}
 
 .sub-heading {
   font-size: 2em;
