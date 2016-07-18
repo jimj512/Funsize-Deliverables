@@ -107,9 +107,12 @@ section {
   margin-bottom: 0.5em;
 }
 h1 {font-weight: 100;}
-a {color: @blue;}
+a {
+  color: @blue;
+  text-decoration: none;
+}
 a:focus,
-a:hover {color: #003399;}
+a:hover {color: #fff;}
 
 /* Elements
 -------------------------------------------------------------- */
@@ -141,8 +144,9 @@ footer {
 .funsize {
   max-width: 100px;
 }
-button {
+.button {
   cursor: pointer;
+  font-size: .75em;
   border: 1px solid #4A90E2;
   border-radius: 4px;
   color: #4A90E2;
@@ -150,6 +154,9 @@ button {
   text-transform: uppercase;
   background: none;
   padding: 1.25em 2em;
+  display: inline-block;
+  width: auto;
+  margin: .5em 0;
   &:hover {
     background: #4A90E2;
     color: white;
