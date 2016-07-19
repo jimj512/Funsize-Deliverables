@@ -1,0 +1,167 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Owned By,Comment,Comment,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status,Task,Task Status
+119779687,set up recurring design reviews,"",1,"May 18, 2016","May 31, 2016",chore,,accepted,"May 17, 2016","May 20, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119779687,Dee Kapila,
+119744983,wireframes: concepts and refinements (4 days),wireframes,1,"May 18, 2016","May 31, 2016",feature,12,accepted,"May 17, 2016","May 25, 2016",,Anthony Armendariz,"- 2 concept options - 1 close to dells deck + one alternate
+- As complete of a wireframe as possible within 12 points",https://www.pivotaltracker.com/story/show/119744983,Anthony Armendariz,Johnnie Hamn,"Hi Team,
+
+Attached are the 2 concepts we've created for Neon. 
+Will discuss the concepts in detail during our meeting
+
+Concept 1 Desktop
+https://www.dropbox.com/sh/s4r15aovgawkilo/AACdzWIXw2wzffmuyuVXbvn2a?dl=0
+
+Concept 1 Mobile
+https://www.dropbox.com/sh/vvq52y1rtbh1ier/AAAICJn6_gMTes2ajZgPmpJaa?dl=0
+
+Concept 1 Android Wear
+https://www.dropbox.com/sh/vvq52y1rtbh1ier/AAAICJn6_gMTes2ajZgPmpJaa?dl=0
+
+Concept 2
+https://www.dropbox.com/sh/nn4z5mq52r9dinn/AAAKOzGT5kOgCEBNRo3A_84za?dl=0 (Johnnie Hamn - May 25, 2016)"
+119842545,observing user testing,"",1,"May 18, 2016","May 31, 2016",feature,3,accepted,"May 18, 2016","May 25, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119842545,Johnnie Hamn,Anthony Armendariz
+120297947,create invision prototype,wireframes,1,"May 18, 2016","May 31, 2016",chore,,accepted,"May 25, 2016","May 25, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/120297947,Jim Jordan,,"Concept 1: https://funsize.invisionapp.com/d/main/#/console/7554344/161732571/preview
+
+Concept 2: https://funsize.invisionapp.com/d/main/#/console/7554344/161732901/preview (Jim Jordan - May 25, 2016)"
+119944971,set up invision integration,"",1,"May 18, 2016","May 31, 2016",chore,,accepted,"May 19, 2016","May 26, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119944971,Dee Kapila,Jim Jordan
+119944953,set up tracker integration,"",1,"May 18, 2016","May 31, 2016",chore,,accepted,"May 19, 2016","May 26, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119944953,Dee Kapila,Jim Jordan
+120298725,Screencast Videos of Concepts,wireframes,1,"May 18, 2016","May 31, 2016",feature,1,accepted,"May 25, 2016","May 31, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/120298725,Jim Jordan,,"Concept 2:
+https://www.dropbox.com/s/b5czh1x9801y1ju/neon-concept_2-screencast.mov?dl=0 (Jim Jordan - May 25, 2016)","Concept 1:
+https://www.dropbox.com/s/g0dfggusfpb6a6v/neon-concept_1-screencast.mov?dl=0
+
+ (Anthony Armendariz - May 25, 2016)"
+120591399,Wireframe refinements,wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,3,accepted,"May 31, 2016","Jun 2, 2016",,Jim Jordan,Most of the comments can be found on this screen: https://funsize.invisionapp.com/d/main/#/console/7554344/161732573/comments,https://www.pivotaltracker.com/story/show/120591399,Jim Jordan,Johnnie Hamn,,,"Remove search, replace with logo/home return button. ",completed,Left section should now be a carousel of products/offers. ,completed,"Right section shouldn't be contextual to the left but additional offers, notifications or updates. ""Vary based on user journey.""  A place for multiple offers.",completed,Consider removing the bottom bar or only show if user engages with something. ,completed,Change 'your apps' to 'my software' and and a 'get software' tab next to it. ,completed,"Rather than removing notifications, add overflow nav for opt out/in.",completed,"Home Initial Concept: not sharing initial findings, agreed wasn't the right direction.",completed
+120298507,acess to dropbox,"",2,"Jun 1, 2016","Jun 14, 2016",chore,,accepted,"May 25, 2016","Jun 6, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/120298507,Dee Kapila,
+120836243,App Map,wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,3,accepted,"Jun 3, 2016","Jun 8, 2016",,Johnnie Hamn,List of what screens need to be designed based on Usecases,https://www.pivotaltracker.com/story/show/120836243,Johnnie Hamn,,"Here's the app map we created bases on the user flows that were sent to us from dell.
+ (Johnnie Hamn - Jun 8, 2016)","https://docs.google.com/spreadsheets/d/1BMqPt5rKqmVflALToeo8EXZBc3TbbzZ0SlN6Lcz51rI/edit?usp=sharing
+
+A working list of all the screens that need to be designed
+ (Johnnie Hamn - Jun 8, 2016)"
+121175847,Design Concept Exploration,"",2,"Jun 1, 2016","Jun 14, 2016",feature,2,accepted,"Jun 8, 2016","Jun 8, 2016",,Jim Jordan,Worked on initial design concepts while the app map was being created for the wireframe phase. Holding off on sharing screens until Design Direction story begins. ,https://www.pivotaltracker.com/story/show/121175847,Jim Jordan,
+121153053,Wireframe Concept - In App Purchase ,wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,2,accepted,"Jun 8, 2016","Jun 9, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/121153053,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main/#/console/7554344/165239737/preview (Jim Jordan - Jun 8, 2016)"
+121154309,Wireframe Production - Application View (Purchased App Available),wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,3,accepted,"Jun 8, 2016","Jun 9, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154309,Jim Jordan,,,,home: purchased app available,not completed,download/purchase: purchase flow,not completed,download/purchase: cc info ,not completed,download/purchase: hardware shipping info ,not completed,download/purchase: email conf,not completed,download/purchase: download progress,not completed,more info: overview,not completed,more info: tech specs,not completed,more info: compatibility,not completed,more info: ratings,not completed,related prod.: products,not completed,related prod.: products offer,not completed
+121154027,Wireframe Production - Application View (App Update) & Download,wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,2,accepted,"Jun 8, 2016","Jun 9, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154027,Jim Jordan,,"Screens: https://invis.io/QF7LHN5CV 
+Click Update for animation: https://invis.io/8H7LKU6JN
+Click the download arrow on excel for animation: https://invis.io/8H7LKU6JN (Jim Jordan - Jun 9, 2016)",,Download Flow,completed
+121153865,Wireframe Production - Application View (Multiple Offer),wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,2,accepted,"Jun 8, 2016","Jun 9, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/121153865,Jim Jordan,,"Here's an animated prototype to better explain what's happening between screens: https://invis.io/BW7LFORYJ
+ (Jim Jordan - Jun 9, 2016)","Screens: https://invis.io/Z27LFLJ5U (Jim Jordan - Jun 9, 2016)",delete offer: confirm delete,completed,animated prototype,completed
+121146269,Wireframe Production - Application View (Single Offer),wireframes,2,"Jun 1, 2016","Jun 14, 2016",feature,2,accepted,"Jun 8, 2016","Jun 9, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121146269,Jim Jordan,,"@johnniehamn1 Going to remove purchase/download details from this story so we can handle it in a specific story for those flows.  (Jim Jordan - Jun 8, 2016)","Screens: https://funsize.invisionapp.com/share/ZX7FQ0W7S (Jim Jordan - Jun 8, 2016)",Home: offer app,completed,Home more info: overview,completed,more info: compatibility,completed,more info: ratings,completed,more info: tech specs,completed,download/purchase: hardware shipping info,completed,related prod.: products,completed,delete offer: confirm delete,completed,"2 templates: images on right, notification style",completed,"2 templates: one image on right, notification style",completed
+121504537,Whiteboard Session - Home (no offers) ,"",2,"Jun 1, 2016","Jun 14, 2016",feature,1,accepted,"Jun 14, 2016","Jun 14, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/121504537,Jim Jordan,,"Whiteboard Notes  (Jim Jordan - Jun 14, 2016)"
+121510383,Wireframe Production - No Offers (Home Concept),wireframes,3,"Jun 15, 2016","Jun 28, 2016",feature,1,accepted,"Jun 14, 2016","Jun 15, 2016",,Jim Jordan,"Link to whiteboard notes: #121504537
+",https://www.pivotaltracker.com/story/show/121510383,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main/#/console/7554344/166742124/preview
+ (Jim Jordan - Jun 14, 2016)",,Your Apps,completed,List of right panel concepts,completed
+121512137,Wireframe Production - Notifications R2,wireframes,3,"Jun 15, 2016","Jun 28, 2016",feature,1,accepted,"Jun 14, 2016","Jun 15, 2016",,Jim Jordan,Updates on the notification screens https://funsize.invisionapp.com/d/main/#/console/7554344/166415018/preview,https://www.pivotaltracker.com/story/show/121512137,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main#/console/7554344/166415018/preview
+ (Jim Jordan - Jun 14, 2016)",,"Dismiss bottom bar notification
+",completed,GIF: before notification state,completed,GIF: expanded transition,completed,GIF: Dismiss full view,completed
+121679421,Design Direction - Whiteboard,visual design,3,"Jun 15, 2016","Jun 28, 2016",feature,1,accepted,"Jun 16, 2016","Jun 16, 2016",,Johnnie Hamn,Discuss visual direction for neon ,https://www.pivotaltracker.com/story/show/121679421,Johnnie Hamn,Jim Jordan
+121146221,Wireframe Production - Zero Day Launch,wireframes,3,"Jun 15, 2016","Jun 28, 2016",feature,1,accepted,"Jun 8, 2016","Jun 17, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121146221,Jim Jordan,,"Started the story, revisiting this concept in a whiteboarding session, will resume after posting our findings here #121505159 (Jim Jordan - Jun 14, 2016)","Initial direction, creating a separate story to capture updates per feedback from 6/15 design review. https://funsize.invisionapp.com/d/main/#/console/7554344/166410711/preview (Jim Jordan - Jun 15, 2016)",Home: Zero Day Screen (no offer),completed,Computer Stats: Hardware Update,not completed,Your Apps: updates,not completed,Your Apps: ready for download,not completed,Your Apps: downloaded,not completed,Your Apps: deleted,not completed,Your Apps: download progress,not completed,Apps/Hardware to Try: list of apps,not completed,Apps/Hardware to Try: list of hardware,not completed,Apps/Hardware to Try: app details,not completed,Apps/Hardware to Try: hardware details,not completed,Apps/Hardware to Try: purchase app/hardware,not completed,Apps/Hardware to Try: cc info,not completed,Apps/Hardware to Try: hardware shipping info,not completed,Apps/Hardware to Try: email shipping conf. ,not completed
+121146725,Design Directions,visual design,3,"Jun 15, 2016","Jun 28, 2016",feature,12,accepted,"Jun 8, 2016","Jun 22, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121146725,Jim Jordan,Johnnie Hamn,"Screens: https://www.dropbox.com/sh/a14whkk6wyhpl27/AAChV4SxAeJR-Jlj8gBwypoZa?dl=0 (Jim Jordan - Jun 22, 2016)"
+121155019,Wireframe revisions,wireframes,3,"Jun 15, 2016","Jun 28, 2016",feature,2,accepted,"Jun 8, 2016","Jun 23, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/121155019,Johnnie Hamn,,"Screens: https://invis.io/ZX7FQ0W7S (Jim Jordan - Jun 23, 2016)"
+121146199,Wirefame Production - Zero Day,wireframes,3,"Jun 15, 2016","Jun 28, 2016",feature,3,accepted,"Jun 8, 2016","Jun 26, 2016",,Johnnie Hamn,"The current paradigm is 3 tabs which are the panel on the left that slide out like our current learning center experience.
+
+1. Home, current offer(s)
+
+2. Cirrus, software
+
+3. Updates/Notifications
+
+
+I say we keep home screen to
+Day 0
+Current offers available. If there is no offer to display, we need nice simple clear typography explaining what the app is and what to expect in future.
+IF you have software available that panel for cirrus will be open and on top of the current offers.
+
+Day 1+
+Any update or future software purchased would invoke notification which takes you to app with correct panel open. So I as user have an update available. I click that, it spawns app with the updates panel open on top of current offer.
+
+Essentially this just keeps the root level consistent as current offers. There is also the visual element on the tabs that let you know something is available if that panel is collapsed.
+
+Quite simply the app is only 3 things, offers, software and updates… shoe horning other experiences makes it more odd.",https://www.pivotaltracker.com/story/show/121146199,Johnnie Hamn,,"Zero Day (no offer) https://invis.io/ZX7FQ0W7S#/166410711_Zero_Day_-_Title_Page (Johnnie Hamn - Jun 26, 2016)",,home: zero day screen (no offer),not completed
+119745961,Design direction refinements,visual design,3,"Jun 15, 2016","Jun 28, 2016",feature,3,accepted,"May 17, 2016","Jun 27, 2016",,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119745961,Johnnie Hamn,,"Screens: https://invis.io/4Z7S01KJG
+ (Jim Jordan - Jun 27, 2016)",,Re-think nav so that its a solid color. Dell can only be shown in Dell blue,completed,Add Download area in expanded sidebar and show what that looks like,completed,Change all Purchase buttons to Learn More,completed,"Playstation area - Change text to black, and body copy to light grey",completed,Change get software to updates,completed
+119746849,sow#1: end date,"",3,"Jun 15, 2016","Jun 28, 2016",release,,accepted,"May 17, 2016","Jun 27, 2016","Jun 27, 2016",Anthony Armendariz,"Original end date: 6.13.16
+adjusted to June 27",https://www.pivotaltracker.com/story/show/119746849,,,"Sow#1 (Anthony Armendariz - Jul 5, 2016)"
+122581641,Whiteboard Session - Download Manager,"",3,"Jun 15, 2016","Jun 28, 2016",feature,1,accepted,"Jun 27, 2016","Jun 28, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/122581641,Jim Jordan,,"Capture: https://goo.gl/photos/U7tmQDv6gncXmkLFA (Jim Jordan - Jun 28, 2016)"
+122132265,Visual Design - Download Manager ,"",3,"Jun 15, 2016","Jun 28, 2016",feature,3,accepted,"Jun 23, 2016","Jun 28, 2016",,Johnnie Hamn,"completion of visuals for download manager
+
+Notes from whiteboarding session: https://goo.gl/photos/U7tmQDv6gncXmkLFA",https://www.pivotaltracker.com/story/show/122132265,Jim Jordan,,"Screens: https://invis.io/4Z7S01KJG (Jim Jordan - Jun 28, 2016)",,desktop notification,completed,in-app notification: bottom bar,completed,in-app notification: sidebar ,completed,delete download flow,completed,updates: system and third party in one list,completed
+122132871,Download Manager Flow,"",3,"Jun 15, 2016","Jun 28, 2016",feature,6,accepted,"Jun 23, 2016","Jun 28, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122132871,Jim Jordan,,"Principle prototype: https://www.dropbox.com/s/apxgp0k2novz8ti/neon-my_software.prd?dl=0 (Jim Jordan - Jun 28, 2016)",,Downloading Flow,completed,Button Animation,completed,Animation Protoype,completed,Spec slide out,completed
+123454711,Prototype - Updated Offer Transition,visual design,4,"Jun 29, 2016","Jul 12, 2016",feature,1,accepted,"Jun 29, 2016","Jun 29, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/123454711,Johnnie Hamn,
+123840811,Visual Design - Offer History ,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jun 30, 2016","Jul 5, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/123840811,Jim Jordan,,"Screen: https://funsize.invisionapp.com/d/main/#/console/7931545/170868190/preview (Jim Jordan - Jun 30, 2016)",,icon design,completed,page design,completed
+122132919,Revisons - Download Manager ,"",4,"Jun 29, 2016","Jul 12, 2016",feature,3,accepted,"Jun 23, 2016","Jul 5, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122132919,Jim Jordan,,"@johnniehamn1 holding off on the unchecked tasks for now. Will revisit ""past offers"" work in this story: #123840811 (Jim Jordan - Jun 30, 2016)","Screens: https://invis.io/4Z7S01KJG (Jim Jordan - Jun 30, 2016)","Change Notifications to ""Past Offers"" (better name than that) Offers will live here",not completed,Use a different icon to match Past Offers,not completed,Show what a scroll bar would look like in the My Apps section,completed,"In my apps, Change the tabs to Installed, Pending and Updates",completed,Remove Download Banner. Create a Download All button. Make it more of an Action Item,completed,Show the download manager as a smaller condensed version when no downloads are avalible ,completed,Show a download manager expanded version when no offers are shown (background),completed,Design a Zero State Screen for Offers,not completed,Error State for incomplete Downloads (example download did not complete because of wi-fi connection,completed,"For update section, need a ""Run Updates"" button (wording could be better)",completed
+122056799,4th of July holiday,"",4,"Jun 29, 2016","Jul 12, 2016",release,,accepted,"Jun 22, 2016","Jul 5, 2016","Jul 4, 2016",Dee Kapila,,https://www.pivotaltracker.com/story/show/122056799,,
+124821561,Light Support Document,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jul 5, 2016","Jul 6, 2016",,Jim Jordan,Document that shows how offers and icons should be handled. Goes over items that arent shown in zeplin,https://www.pivotaltracker.com/story/show/124821561,Johnnie Hamn,," (Johnnie Hamn - Jul 6, 2016)",,Best Practices,completed
+122132501,Zeplin Redlining and Asset Generation,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jun 23, 2016","Jul 6, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122132501,Johnnie Hamn,,"Zeplin link: https://zpl.io/RDmBA (Jim Jordan - Jul 6, 2016)",,Zeplin Intergration,completed,Assets for dev,completed
+122134551,Notification Flow,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jun 23, 2016","Jul 6, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122134551,Johnnie Hamn,,"Notification Flow - https://invis.io/4Z7S01KJG#/170133051_Notifications-_Desktop_Notification (Johnnie Hamn - Jul 6, 2016)"
+124821431,Prototype Animation Guidlines,"",4,"Jun 29, 2016","Jul 12, 2016",feature,3,accepted,"Jul 5, 2016","Jul 6, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/124821431,Jim Jordan,,"Google Doc: https://docs.google.com/a/funsize.co/document/d/120Db4UdsY01gFHBLE11wSOl4hz-L58BZSwEX5RBcIe0/edit?usp=sharing
+
+Animation movie file links: https://www.dropbox.com/sh/vx6q1u0gnqr4tk4/AAC7Ud2cFU6V8euWCmqND_sMa?dl=0 (Jim Jordan - Jul 6, 2016)",,Prototype revisions based on #122132919,completed
+125245441,Slice images from multiple offers,"",4,"Jun 29, 2016","Jul 12, 2016",feature,1,accepted,"Jul 6, 2016","Jul 6, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/125245441,Jim Jordan,
+125238851,Button State Animations,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jul 6, 2016","Jul 6, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/125238851,Jim Jordan,,"Static button states: https://zpl.io/ZFNytR (Jim Jordan - Jul 6, 2016)","Download animation: https://www.dropbox.com/s/e3yzq29pt0klx9u/Download%20.mov?dl=0
+
+Download Error: https://www.dropbox.com/s/5clnm0ljd8y3n0b/Download%20-%20Error.mov?dl=0 (Jim Jordan - Jul 6, 2016)"
+125241401,Add button states to #124821561,"",4,"Jun 29, 2016","Jul 12, 2016",chore,,accepted,"Jul 6, 2016","Jul 7, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/125241401,Jim Jordan,
+125240941,Simple Icon Setup and Multiple offer slice,"",4,"Jun 29, 2016","Jul 12, 2016",chore,,accepted,"Jul 6, 2016","Jul 7, 2016",,Johnnie Hamn,One color icons and ,https://www.pivotaltracker.com/story/show/125240941,Jim Jordan,,"Updated Navigation: https://funsize.invisionapp.com/d/main#/console/7931545/172339971/preview (Jim Jordan - Jul 7, 2016)"
+126137835,Visual Design - Start Screen,"",4,"Jun 29, 2016","Jul 12, 2016",feature,2,accepted,"Jul 12, 2016","Jul 12, 2016",,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/126137835,Johnnie Hamn,Jim Jordan,"Options: https://funsize.invisionapp.com/d/main/#/console/7931545/173438351/preview (Jim Jordan - Jul 12, 2016)"
+121155025,Visual Design - Explore New Offer Examples (single offers),visual design,4,"Jun 29, 2016","Jul 12, 2016",feature,9,accepted,"Jun 8, 2016","Jul 12, 2016",,Jim Jordan,Images: https://www.dropbox.com/sh/7vrhcswotohz5lc/AAAFexuP7usileiCDiEsdAs5a?dl=0,https://www.pivotaltracker.com/story/show/121155025,Jim Jordan,,"Generic templates: https://funsize.invisionapp.com/d/main/#/console/7931545/173411229/preview
+
+Office: https://funsize.invisionapp.com/d/main/#/console/7931545/173411234/preview
+
+XPS: https://funsize.invisionapp.com/d/main/#/console/7931545/173436473/preview
+
+Photoshop: 
+https://funsize.invisionapp.com/d/main/#/console/7931545/173438929/preview (Jim Jordan - Jul 12, 2016)",,XPS Hardware - JJ,completed,Photoshop Elements 14 - MB,completed,Premier Elements 14 - MB,completed,"Office Professional 2016 - JJ
+",completed, Office Home & Business 2016 - JJ,completed,3 generic templates (background colors with single images),completed
+126512417,Update Zeplin,"",5,"Jul 13, 2016","Jul 26, 2016",chore,,accepted,"Jul 18, 2016","Jul 18, 2016",,Jim Jordan,,https://www.pivotaltracker.com/story/show/126512417,Jim Jordan,
+126168975,Visual Design - More Info Slide out Template 1 (Simple),"",5,"Jul 13, 2016","Jul 26, 2016",feature,2,delivered,"Jul 12, 2016",,,Johnnie Hamn,"3-4 custom tabs (customizable text)
+- Overview
+- Tech specs
+
+No images",https://www.pivotaltracker.com/story/show/126168975,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main/#/console/7931545/174807605/preview (Jim Jordan - Jul 18, 2016)",,Remove Star Rating,not completed
+126257343,Visual Design - More Info Slide out Template 2 (Complex),"",5,"Jul 13, 2016","Jul 26, 2016",feature,2,delivered,"Jul 13, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/126257343,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main/#/console/7931545/174807723/preview (Jim Jordan - Jul 18, 2016)"
+121758849,Onboarding ,"",5,"Jul 13, 2016","Jul 26, 2016",feature,6,delivered,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121758849,Jim Jordan,,"Screens: https://funsize.invisionapp.com/d/main/#/console/7931545/174807353/preview (Jim Jordan - Jul 18, 2016)",,Update homepage to show dashboard stats,completed,Zero screen for no offers,completed,"First run screen
+Privacy policy and personalization
+Explain what dell neon is all about
+Agree to terms
+Up to date on offers
+Modal Dialog not excepting terms for system
+
+what happens if the user doesn’t click eula
+
+Application will help you keep this system up today and digital downloads
+
+app modal for personalize recommendations
+when first offer shows up.
+and in pull out
+
+Carousel onboarding",not completed,OB 1: Explain what neon is ,completed,OB 2: show how digital delivery works,completed,OB 3: recommendation engine opt in agreement ,completed
+126512131,Onboarding Prototype,"",5,"Jul 13, 2016","Jul 26, 2016",feature,1,delivered,"Jul 18, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/126512131,Jim Jordan,,"Animation: https://www.dropbox.com/s/th0au9r498ymmp5/Onboarding%20-%20Prototype.mov?dl=0 (Jim Jordan - Jul 18, 2016)"
+125245541,List of XPS Images needed in High-Res,"",5,"Jul 13, 2016","Jul 26, 2016",chore,,unstarted,"Jul 6, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/125245541,,
+122133975,Visual Design - Explore New Offer Examples (multiple offers),visual design,5,"Jul 13, 2016","Jul 26, 2016",feature,6,unstarted,"Jun 23, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122133975,,,,, Adobe Photoshop Elements 14 & Premiere Elements 14 (PEPE) - combined SKU single download.,not completed,XPS Accessories ,not completed,3 generic templates (background colors with single images),not completed,All office options? ,not completed
+122134407,Marketing and Dev Style Guide,"",5,"Jul 13, 2016","Jul 26, 2016",feature,6,unstarted,"Jun 23, 2016",,,Johnnie Hamn,PDF and Movie examples ,https://www.pivotaltracker.com/story/show/122134407,,,,,Animation Guide,not completed,redline,not completed,"Overall how to, best practices ",not completed,"Styleguide
+
+- notification flows
+- more info slide breakdown
+- onboarding flow
+",not completed
+124871011,SOW 3: End date July 26,"",5,"Jul 13, 2016","Jul 26, 2016",release,,unstarted,"Jul 5, 2016",,"Jul 26, 2016",Dee Kapila,Includes additional approved 2 weeks + 1 extra day to account for July 4th holiday,https://www.pivotaltracker.com/story/show/124871011,,
+122132973,Visual Design - Download Manager ,"",,,,feature,,unscheduled,"Jun 23, 2016",,,Johnnie Hamn,completion of visuals for download manager,https://www.pivotaltracker.com/story/show/122132973,,
+122060195,Download Protoype/Animation***,"",,,,feature,,unscheduled,"Jun 22, 2016",,,Johnnie Hamn,"Buttons and Notifications, showing how it works",https://www.pivotaltracker.com/story/show/122060195,,
+122059645,Design Support,"",,,,feature,,unscheduled,"Jun 22, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122059645,,
+122058789,Forms and Text Style guide,"",,,,feature,3,unscheduled,"Jun 22, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/122058789,,
+121150115,Need requirements from Dell - unified log in flow ,"",,,,chore,,unscheduled,"Jun 8, 2016",,,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/121150115,Dee Kapila,Johnnie Hamn
+121175217,Wireframe Production - Purchase / Download App / Update App,wireframes,,,,feature,2,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121175217,Jim Jordan,,,,Purchase flow,not completed,CC Info,not completed,Email Confirmation,not completed,Download flow,not completed,Download Confirmation,not completed
+121175221,Visual Design Production - Purchase / Download App / Update App,visual design,,,,feature,2,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121175221,,,,,Purchase flow,not completed,CC Info,not completed,Email Confirmation,not completed,Download flow,not completed,Download Confirmation,not completed
+121175249,Wireframe Production - Purchase / Ship Hardware,wireframes,,,,feature,2,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121175249,,,,,Purchase flow,not completed,CC Info,not completed,Email Confirmation,not completed,Shipping flow,not completed,Shipping Confirmation,not completed
+121146587,Visual Production - Misc,visual design,,,,feature,3,unscheduled,"Jun 8, 2016",,,Johnnie Hamn,"Consider adding price, download the trial, etc. ",https://www.pivotaltracker.com/story/show/121146587,,,,,App Sidebar,not completed,Notification Sidebar,not completed,Notification Settings,not completed,App Settings,not completed,Buttons: Download,not completed,Buttons: Downloading,not completed,Buttons: Purchased,not completed,Buttons: Purchasing,not completed,Buttons: Update App,not completed
+121768511,Visual Design Production - Revisions ,"",,,,feature,2,unscheduled,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121768511,,
+121154917,Visual Design Application View (Purchased App Available),visual design,,,,feature,3,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154917,,,,,home: purchased app available,not completed,download/purchase: purchase flow,not completed,download/purchase: cc info ,not completed,download/purchase: hardware shipping info ,not completed,download/purchase: email conf,not completed,download/purchase: download progress,not completed,more info: overview,not completed,more info: tech specs,not completed,more info: compatibility,not completed,more info: ratings,not completed,related prod.: products,not completed,related prod.: products offer,not completed
+121768509,Visual Design Production - Revisions ,"",,,,feature,2,unscheduled,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121768509,,
+121154821,Visual Design Production - Application View (Multiple Offer),visual design,,,,feature,3,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154821,,,,,Home: offer app (multiple),not completed,Home: offer hardware (multiple),not completed,download/purchase: purchase flow,not completed,download/purchase: cc info ,not completed,download/purchase: hardware shipping info ,not completed,download/purchase: email conf,not completed,download/purchase: download progress,not completed,more info: overview,not completed,more info: tech specs,not completed,more info: compatibility,not completed,more info: ratings,not completed,related prod.: products,not completed,related prod.: products offer,not completed,delete offer: confirm delete,not completed
+121768507,Visual Design Production - Revisions ,"",,,,feature,2,unscheduled,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121768507,,
+121154777,Visual Design Production - Application View (Single Offer),wireframes,,,,feature,3,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154777,,,,,Home: offer app,not completed,Home: offer hardware,not completed,download/purchase: purchase flow,not completed,download/purchase: cc info ,not completed,download/purchase: hardware shipping info,not completed,download/purchase: email conf,not completed,download/purchase: download progress,not completed,more info: overview,not completed,more info: tech specs,not completed,more info: compatibility,not completed,more info: ratings,not completed,related prod.: products,not completed,related prod.: products offer,not completed,delete offer: confirm delete,not completed
+121154463,Visual Design Production - Zero Day Launch,visual design,,,,feature,3,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154463,,,,,Home: Zero Day Screen (no offer),not completed,Computer Stats: Hardware Update,not completed,Your Apps: updates,not completed,Your Apps: ready for download,not completed,Your Apps: downloaded,not completed,Your Apps: deleted,not completed,Your Apps: download progress,not completed,Apps/Hardware to Try: list of apps,not completed,Apps/Hardware to Try: list of hardware,not completed,Apps/Hardware to Try: app details,not completed,Apps/Hardware to Try: hardware details,not completed,Apps/Hardware to Try: purchase app/hardware,not completed,Apps/Hardware to Try: cc info,not completed,Apps/Hardware to Try: hardware shipping info,not completed,Apps/Hardware to Try: email shipping conf. ,not completed
+121768503,Visual Design Production - Revisions ,"",,,,feature,2,unscheduled,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121768503,,
+121154495,Visual Design Production - First Run Experience,visual design,,,,feature,3,unscheduled,"Jun 8, 2016",,,Jim Jordan,,https://www.pivotaltracker.com/story/show/121154495,,,,,Home: Welcome / Tutorial,not completed,What are offers: offers breakdown,not completed,apps/hardware to download: breakdown,not completed,download apps: download breakdown,not completed,home: zero day screen (no offer),not completed
+121768505,Visual Design Production - Revisions ,"",,,,feature,2,unscheduled,"Jun 17, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/121768505,,
+119746539,"production: best practices, assets style guide","production, visual design",,,,feature,6,unscheduled,"May 17, 2016",,,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/119746539,,,,,redlines,not completed,asssets,not completed
+122058313,refine template system,visual design,,,,feature,,unscheduled,"Jun 22, 2016",,,Anthony Armendariz,,https://www.pivotaltracker.com/story/show/122058313,,
+120854393,Zeplin Intergration,"",,,,chore,,unscheduled,"Jun 3, 2016",,,Johnnie Hamn,,https://www.pivotaltracker.com/story/show/120854393,,
